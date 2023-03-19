@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "buCQK7FrGEgU5FEYJ0Qo/uwYXjFquNSfctjQApkVsok=",
+  "Source": "WebAPIAutores",
+  "BasePath": "_content/WebAPIAutores",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIAutores\\wwwroot",
+      "Source": "WebAPIAutores",
+      "ContentRoot": "D:\\Proyectos\\CursoRESTfulAPIsASPNETCore\\ASP.NET Core 6\\Modulo 5 - Manipulando Recursos\\Inicio\\WebAPIAutores\\WebAPIAutores\\wwwroot\\",
+      "BasePath": "_content/WebAPIAutores",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Proyectos\\CursoRESTfulAPIsASPNETCore\\ASP.NET Core 6\\Modulo 5 - Manipulando Recursos\\Inicio\\WebAPIAutores\\WebAPIAutores\\wwwroot\\Archivo 1.txt",
+      "SourceId": "WebAPIAutores",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\CursoRESTfulAPIsASPNETCore\\ASP.NET Core 6\\Modulo 5 - Manipulando Recursos\\Inicio\\WebAPIAutores\\WebAPIAutores\\wwwroot\\",
+      "BasePath": "_content/WebAPIAutores",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    }
+  ]
+}
